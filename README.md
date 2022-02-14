@@ -1,6 +1,4 @@
 # quest2_csharp
-Programa que tem como entrada um número,e a  saída a potência de 2 dos valores pares de 1 até esse número.
-
 Leia um valor inteiro N. Apresente o quadrado de cada um dos valores pares, de 1 até N, inclusive N, se for o caso.
 
 Entrada
